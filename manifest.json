@@ -1,0 +1,14 @@
+{
+  "name": "X 视频下载器",
+  "short_name": "X下载",
+  "description": "粘贴 X 视频链接，选择清晰度下载",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1116",
+  "theme_color": "#0e1116",
+  "icons": [
+    { "src": "/icon-v2-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-v2-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-v2-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
